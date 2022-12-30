@@ -1,8 +1,8 @@
 # Admin-Panel
 
 #output
+![adminPanel](https://user-images.githubusercontent.com/60539011/210043807-6638b781-cc99-4e7d-929e-9218399c75aa.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/60539011/210043696-e8081bcb-d3c9-431a-9f70-433363b8c427.png)
-![adminPanel](https://user-images.githubusercontent.com/60539011/210043701-d3308a86-41ae-438a-b445-45d83a02da4b.png)
 ![Screenshot (67)](https://user-images.githubusercontent.com/60539011/210043706-51774808-01e7-4469-a61c-fc225a11cb9e.png)
 
 
